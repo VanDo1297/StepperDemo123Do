@@ -1,0 +1,22 @@
+.step__item{
+    width: 100%;
+}
+.step__item .step__item__line{
+    height: 3px;
+    width: 100%;
+    background-color: gray;
+    position: relative;
+}
+.step__item .step__item__line .dot{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: calc(50% - 7px);
+    bottom: -7px; 
+    background-color: gray;
+    border-radius: 50%;
+}
+
+.active{
+    background-color: red !important;
+}

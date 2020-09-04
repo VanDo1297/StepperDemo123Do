@@ -1,0 +1,17 @@
+.title__image{
+    width: 30%;
+    height: 70px;
+}
+.title__sw__section{
+    background-color: rgba(0, 0, 0, 0.1);
+    height: 25px;
+    padding: 5px;
+    border-radius: 20px;
+    min-width: 50px;
+}
+.title__switch{
+    background-color: #fff;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+}
